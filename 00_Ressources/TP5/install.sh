@@ -5,4 +5,9 @@ sudo nmtui
 
 pip install pymodbus
 
-sudo shutdown now
+    
+
+
+# Nettoyage
+cd /home/pi
+rm *.py
